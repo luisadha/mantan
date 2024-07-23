@@ -1,0 +1,95 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Mantan/app/src/main/java/com/mantan/main/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 18,
+          "index": 149,
+          "line": 5
+        },
+        "start": {
+          "column": 18,
+          "index": 149,
+          "line": 5
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Mantan/app/src/main/java/com/mantan/main/UninstallHelper.java",
+      "selection": {
+        "end": {
+          "column": 19,
+          "index": 19,
+          "line": 0
+        },
+        "start": {
+          "column": 19,
+          "index": 19,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Mantan/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 28,
+          "index": 307,
+          "line": 7
+        },
+        "start": {
+          "column": 28,
+          "index": 307,
+          "line": 7
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Mantan/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Mantan/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 36,
+          "index": 203,
+          "line": 12
+        },
+        "start": {
+          "column": 36,
+          "index": 203,
+          "line": 12
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Mantan/app/src/main/res/layout/content_main.xml",
+      "selection": {
+        "end": {
+          "column": 27,
+          "index": 402,
+          "line": 9
+        },
+        "start": {
+          "column": 27,
+          "index": 402,
+          "line": 9
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Mantan/app/src/main/java/com/mantan/main/MainActivity.java"
+}
